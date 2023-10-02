@@ -1,0 +1,57 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #676c71;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+.promocion {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.formularios {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #676c71;
+}
+
+/* Estilos del footer */
+footer {
+    background-color: #676c71;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.programas {
+    text-align: center;
+}
+
+.carreras {
+    text-align: center;
+}
+
+.programa {
+    background-color: #2a2b2b;
+    margin: 20px;
+    padding: 10px;
+    color: #b6b9bc;
+}
